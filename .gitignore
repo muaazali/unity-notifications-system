@@ -75,7 +75,9 @@ crashlytics-build.properties
 /[Pp]ackages
 
 # VSCode Config Files
-/.vscode
 
 # TextMeshPro
 /[Aa]ssets/TextMesh Pro/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
